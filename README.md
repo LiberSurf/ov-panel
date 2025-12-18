@@ -16,45 +16,4 @@
   </p>
 </div>
 
-  ![OV-Panel Screenshot](docs/images/panel.png)
-
----
-
-## 🚀 Overview
-
-**OV-Panel** is a modern and easy-to-use web panel that allows you to manage your **OpenVPN** server, users, and connections from a simple dashboard.
-
-It’s designed for both beginners and system administrators who want a minimal yet powerful solution to handle OpenVPN deployments.
-
----
-
-## ✨ Features
-
-- 🧠 Simple and intuitive dashboard  
-- ⚙️ User and connection management  
-- 🔑 Auto user creation with configuration export  
-- 🧩 Supports multiple OpenVPN servers (Node)  
-- 🔒 JWT-based authentication  
-- 🌐 API-ready for automation  
-
-- <div align="left">
-  <a href="https://primezdev.github.io/ov-doc/" target="_blank">
-    <img alt="More Info" src="https://img.shields.io/badge/-More%20Info-blue?style=for-the-badge&logo=readthedocs" />
-  </a>
-</div>
-
----
-
-## ⚡ Quick Installation OV-Panel
-
-You can install OV-Panel on a fresh Ubuntu/Debian system with a single command:
-
-```bash
-bash <(curl -s https://raw.githubusercontent.com/primeZdev/ov-panel/main/install.sh)
-```
-## ⚡ Quick Installation OV-Node
-
-You can install OV-Node on a fresh Ubuntu/Debian system with a single command:
-```bash
-bash <(curl -s https://raw.githubusercontent.com/primeZdev/ov-node/main/install.sh)
-```
+This is a fork from https://github.com/primeZdev/ov-panel. Do NOT install this on your live server.
